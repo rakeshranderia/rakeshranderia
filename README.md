@@ -1,4 +1,4 @@
-# Hi, I'm Rakesh 👋
+# Hi, I'm Rakesh  👋
 
 ### Technology Executive | IT Strategy | Cybersecurity | Digital Transformation
 
