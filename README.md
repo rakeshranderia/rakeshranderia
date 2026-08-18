@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Rakesh 👋
+I'm an IT Executive with extensive experience in Security, Infrastructure, Data and Governance
 
 <!--
 **rakeshranderia/rakeshranderia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
