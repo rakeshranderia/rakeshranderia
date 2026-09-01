@@ -1,133 +1,195 @@
-# Hi, I'm Rakesh 👋
+# Rakesh Randeria
 
-### Technology Leader | Strategy | Cybersecurity | Transformation | AI
+Technology Executive | Strategy | Transformation | Cybersecurity | AI & Digital Enablement
 
-I'm a technology and information security leader with experience spanning technology strategy, operations, cybersecurity, digital transformation, AI governance and organisational resilience.
+I am a technology leader with 20+ years of experience progressing from hands-on engineering and infrastructure roles through IT management to enterprise technology and security leadership.
 
-I've spent much of my career in environments where technology leadership means operating at two levels:
+My background spans technology strategy, cybersecurity, infrastructure modernisation, digital transformation, AI governance, operational resilience, IT/OT, vendor management and business partnering.
 
-**Setting direction with executives and the Board, while remaining close enough to the technology to understand how it is actually delivered.**
-
-This GitHub is where I document some of the frameworks, practical examples and lessons I've developed along the way.
+I am particularly interested in the point where technology stops being a support function and starts becoming a practical business enabler.
 
 ---
 
-## How I Think About Technology
+## What I Focus On
 
-I tend to come back to four questions:
+- Technology strategy and transformation
+- Cybersecurity, risk and resilience
+- AI governance and responsible adoption
+- IT operating models and business partnering
+- Infrastructure and platform modernisation
+- Secure delivery and operational readiness
+- Data governance and secure information handling
+- Vendor, commercial and technology investment decisions
+- IT/OT and enterprise systems
+- Practical automation and technical controls
 
-- **What business problem are we trying to solve?**
-- **What is the simplest practical technology approach?**
-- **What risk are we accepting or reducing?**
-- **How will we know whether it worked?**
+---
 
-I don't see technology leadership as a choice between being strategic or technical.
+## Featured Repositories
 
-The role is to understand enough of the detail to make good decisions while keeping the focus on **business outcomes, risk, people and delivery**.
+### Technology Leadership
+
+Practical leadership and transformation case studies across cybersecurity, AI adoption, business partnering, digital transformation, IT/OT and secure environments.
+
+[Technology Leadership](https://github.com/rakeshranderia/technology-leadership)
+
+---
+
+### Cybersecurity Framework
+
+Security governance, control architecture, resilience and practical alignment across ISO 27001, Essential Eight, NIST CSF, SOC 2, PSPF and APRA CPS 230/234.
+
+[Cybersecurity Framework](https://github.com/rakeshranderia/cybersecurity-framework)
+
+---
+
+### AI Governance Framework
+
+Practical AI governance, risk assessment, acceptable use, Shadow AI controls, adoption and implementation patterns.
+
+[AI Governance Framework](https://github.com/rakeshranderia/ai-governance-framework)
+
+---
+
+### IT Operations Playbook
+
+Technology operating models, service management, governance, business-led prioritisation, executive metrics and technology investment practices.
+
+[IT Operations Playbook](https://github.com/rakeshranderia/it-operations-playbook)
+
+---
+
+### Technology Automation
+
+Practical technical knowledge, automation and control patterns across identity, Microsoft 365, secure delivery, resilience, infrastructure and security.
+
+The repository includes implementation examples, reusable control patterns and a playground for experiments and learning.
+
+[Technology Automation](https://github.com/rakeshranderia/technology-automation)
+
+---
+
+## Technical Knowledge & Control Library
+
+I am not a full-time software developer.
+
+The technical material here reflects a technology leadership approach that stays close enough to engineering, infrastructure and security to understand how controls actually work.
+
+The library connects:
+
+**Business Problem → Practical Pattern → Technical Control → Evidence → Outcome**
+
+Current areas include:
+
+- Identity and access management
+- Microsoft 365 and Microsoft Graph
+- Secure delivery and SDLC
+- Incident response and disaster recovery
+- Infrastructure operations
+- Linux and cloud operations
+- Network and IT/OT controls
+- API and integration governance
+- Data lifecycle and secure exchange
+- Monitoring and observability
+- Endpoint lifecycle
+- Secrets and certificate management
+- Technical debt and end-of-life management
+
+The objective is not to build a collection of scripts for its own sake.
+
+A stronger pattern is:
+
+**Policy says what must happen.  
+A technical control makes the expected action repeatable.  
+Evidence shows that it happened.**
+
+---
+
+## AI Adoption
+
+My approach to AI adoption is:
+
+**Governance → Pilot → Adoption → Measurement → Scale**
+
+The emphasis is on practical use cases, appropriate data controls, user enablement and evidence of value rather than simply deploying licences.
+
+The supporting material covers:
+
+- AI use-case assessment
+- privacy and data classification
+- acceptable use
+- DLP and Shadow AI
+- human review
+- adoption telemetry
+- risk and control decisions
+- scaling decisions
+
+[AI Adoption Case Study](https://github.com/rakeshranderia/technology-leadership/blob/main/case-studies/ai-adoption-case-study.md)
+
+---
+
+## Cybersecurity
+
+My security approach is risk-led and proportionate.
+
+The objective is not to implement more security for the sake of it.
+
+It is to understand:
+
+**Risk → Business Impact → Appropriate Control → Evidence → Improvement**
+
+Areas represented across the repositories include:
+
+- ISO/IEC 27001
+- Essential Eight
+- NIST Cybersecurity Framework
+- SOC 2
+- APRA CPS 230 / CPS 234
+- third-party risk
+- incident response
+- disaster recovery
+- security metrics
+- identity and access governance
+- secure environments
 
 ---
 
 ## Technology Leadership
 
-My [Technology Leadership](https://github.com/rakeshranderia/technology-leadership) repository brings together practical case studies from across my experience.
+Technology leadership works best when the business owns priorities and trade-offs while technology owns execution quality, dependencies, risk and technical integrity.
 
-Topics include:
+A useful progression is:
 
-- Governed AI adoption
-- Cybersecurity maturity
-- Multi-year digital transformation
-- Business-led technology prioritisation
-- IT/OT and production technology
-- Secure environment delivery
+**Reliable Service → Trust → Business Partnership → Strategic Influence**
 
-The focus is less on the individual technologies and more on:
-
-**Context → Challenge → Approach → Outcome → Lessons**
-
-[Explore Technology Leadership](https://github.com/rakeshranderia/technology-leadership)
+The repositories intentionally connect executive technology leadership with enough technical depth to show how the underlying systems and controls operate.
 
 ---
 
-## Frameworks & Practical Work
+## Playground
 
-### 🔐 [Cybersecurity Framework](https://github.com/rakeshranderia/cybersecurity-framework)
+I also keep a small playground within the Technology Automation repository for experiments, language refreshers and technical learning.
 
-A practical approach to cybersecurity strategy, governance, risk and resilience.
+That content is deliberately separated from the more formal control modules.
 
-Covers areas including ISO 27001, Essential Eight, NIST, SOC 2, security maturity, risk management and security architecture.
-
----
-
-### 🤖 [AI Governance Framework](https://github.com/rakeshranderia/ai-governance-framework)
-
-A practical approach to enabling AI adoption while managing privacy, security, data and organisational risk.
-
-Built around a simple assessment model:
-
-**Use Case + Data + Risk + Platform**
+[Technology Automation Playground](https://github.com/rakeshranderia/technology-automation/tree/main/playground)
 
 ---
 
-### ⚙️ [IT Operations Playbook](https://github.com/rakeshranderia/it-operations-playbook)
+## Connect
 
-Perspectives on operating and improving a modern technology function.
+Website: [rakeshranderia.com.au](https://rakeshranderia.com.au)
 
-Covers service management, resilience, vendor management, technology roadmaps, executive reporting and business-led prioritisation.
+LinkedIn: [linkedin.com/in/rakeshranderia](https://www.linkedin.com/in/rakeshranderia/)
 
----
+Medium: [rakeshranderia.medium.com](https://rakeshranderia.medium.com)
 
-### 💻 [Technology Automation](https://github.com/rakeshranderia/technology-automation)
-
-Practical automation examples across IT operations, Microsoft 365, security, infrastructure and reporting.
-
-I'm not a full-time developer, but I believe technology leaders benefit from remaining technically curious and close enough to the technology to understand how things actually work.
-
-There's even a small technology playground.
-
-Because apparently no GitHub portfolio is complete without:
-
-`Hello, World!`
-
----
-
-## Areas I Work Across
-
-**Technology Strategy & Transformation**  
-Technology roadmaps, investment prioritisation and organisational change.
-
-**Cybersecurity & Risk**  
-Security strategy, ISO 27001, Essential Eight, risk, resilience and assurance.
-
-**AI Governance & Enablement**  
-Governed AI adoption, use-case assessment, data protection and responsible experimentation.
-
-**IT Operations**  
-Reliable, measurable technology services aligned with business priorities.
-
-**IT/OT**  
-Technology supporting production environments, including availability, networking, segmentation and cybersecurity.
-
-**Data & Technology Governance**  
-Creating appropriate structure around information, platforms, risk and technology decisions.
-
----
-
-## Technology & Frameworks
-
-Microsoft 365 • Azure • PowerShell • Microsoft Graph • Cybersecurity • ISO 27001 • Essential Eight • SOC 2 • NIST • AI Governance • IT Operations • IT/OT • Automation • Data Governance
+Google Developer Profile: [g.dev/rakeshranderia](https://g.dev/rakeshranderia)
 
 ---
 
 ## Perspective
 
-Technology changes quickly.
+Technology leadership requires both strategic perspective and enough technical understanding to challenge assumptions, ask better questions and make practical decisions.
 
-Good technology leadership is more consistent.
-
-**Understand the business. Make priorities visible. Manage risk. Keep things practical. Deliver outcomes.**
-
-And keep learning.
-
----
-
-*This GitHub is a working collection of technology leadership ideas, frameworks, practical examples and the occasional experiment.*
+That is the purpose of the work collected here.
