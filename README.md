@@ -25,6 +25,24 @@ I am particularly interested in the point where technology stops being a support
 
 ---
 
+## Recent Work
+
+### Data Governance Toolkit
+
+A focused practical toolkit connecting data classification, lineage and governance decision rights.
+
+**Classify → Trace → Govern**
+
+[Data Governance Toolkit](https://github.com/rakeshranderia/data-governance-toolkit)
+
+### Technology Leadership Playbooks
+
+Practical, anonymised technology leadership playbooks covering transformation, M&A, architecture, integration, resilience, operating models and delivery governance.
+
+[Technology Leadership Playbooks](https://github.com/rakeshranderia/technology-leadership-playbooks)
+
+---
+
 ## Featured Repositories
 
 ### Technology Leadership
